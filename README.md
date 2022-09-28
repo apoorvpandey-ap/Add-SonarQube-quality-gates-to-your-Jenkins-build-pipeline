@@ -1,3 +1,5 @@
+https://tomgregory.com/sonarqube-quality-gates-in-jenkins-build-pipeline/
+
 # Add-SonarQube-quality-gates-to-your-Jenkins-build-pipeline
 
 ### Flow Diagram
